@@ -1,22 +1,11 @@
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=38BDF8&width=800&lines=Hey+there!+👋;I'm+Karthikeyan+P;Java+Backend+Developer+%7C+AIML+Student;DSA+%7C+Spring+Boot+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1500&color=38BDF8&width=750&lines=Hey+there!;I%27m+Karthikeyan+P;AIML+Student+%7C+Java+SpringBoot+Developer;Learning.+Building." />
 </div>
 
----
-
-## 👨‍💻 About Me
-
-I am an **entry-level Java Backend Developer** and **Artificial Intelligence & Machine Learning student** with strong fundamentals in **Java, OOP, Data Structures & Algorithms**, and hands-on experience building **production-level backend applications**.
-
-I enjoy solving problems on **LeetCode**, designing **RESTful APIs**, and building scalable backend systems using **Spring Boot**. I also have experience working on **AI-based applications**, combining ML with real-world use cases.
-
----
-
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### 🔹 Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### 🔹 Backend & Web
@@ -35,7 +24,7 @@ I enjoy solving problems on **LeetCode**, designing **RESTful APIs**, and buildi
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 - Advanced **Data Structures & Algorithms** using Java (LeetCode)
 - Spring Boot internals & backend best practices
@@ -44,9 +33,9 @@ I enjoy solving problems on **LeetCode**, designing **RESTful APIs**, and buildi
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🛒 **Kovai Stories – E-Commerce Platform**
+###  **Kovai Stories – E-Commerce Platform**
 - Production-level full-stack e-commerce application
 - Secure ordering & admin management
 - **Tech Stack:** Java, Spring Boot, MongoDB Atlas, React  
@@ -54,7 +43,7 @@ I enjoy solving problems on **LeetCode**, designing **RESTful APIs**, and buildi
 
 ---
 
-### 🤖 **AI Interview & Job Application Platform**
+###  **AI Interview & Job Application Platform**
 - AI-powered interview practice system
 - Job board & coding challenge marketplace
 - **Tech Stack:** Java, Spring Boot, MongoDB, React, JavaScript  
@@ -62,7 +51,7 @@ I enjoy solving problems on **LeetCode**, designing **RESTful APIs**, and buildi
 
 ---
 
-### ✋ **Sign Language Recognition System**
+###  **Sign Language Recognition System**
 - Real-time sign language detection using ML
 - Accurate gesture recognition with computer vision
 - **Tech Stack:** Python, Mediapipe, Scikit-learn, OpenCV  
@@ -70,25 +59,22 @@ I enjoy solving problems on **LeetCode**, designing **RESTful APIs**, and buildi
 
 ---
 
-## 🧠 LeetCode Profile (DSA Practice)
+##  LeetCode Profile (DSA Practice)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/karthikeyanpnk?theme=dark&font=JetBrains%20Mono)
-
+---<img width="1256" height="617" alt="38b50a70-c424-46cf-9edd-55c1de05a05e" src="https://github.com/user-attachments/assets/436e0fdd-1293-4456-b68a-8f294ebb7854" />
 🔗 https://leetcode.com/u/karthikeyanpnk/
 
----
-
-## 📊 GitHub Activity
+##  GitHub Activity
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karthi-Keyan-pnk&theme=tokyonight)
 
 ---
 
-## 📫 Contact Me
+##  Contact Me
 
 ![Email](https://img.shields.io/badge/Email-karthikeyan.pnk30%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Karthikeyan%20P-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthi-keyan-p-830775289/)
 
 ---
 
-⭐ I believe in **consistent learning**, **clean backend design**, and **improving through problem-solving and real-world projects**.
+ I believe in **consistent learning**, **clean backend design**, and **improving through problem-solving and real-world projects**.
