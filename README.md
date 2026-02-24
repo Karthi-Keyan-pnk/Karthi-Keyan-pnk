@@ -55,7 +55,7 @@
 - Real-time sign language detection using ML
 - Accurate gesture recognition with computer vision
 - **Tech Stack:** Python, Mediapipe, Scikit-learn, OpenCV  
-🔗 https://github.com/Nishanth-cyber/SLR
+🔗 https://github.com/Karthi-Keyan-pnk/SLR
 
 ---
 
