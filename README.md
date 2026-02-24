@@ -47,7 +47,7 @@
 - AI-powered interview practice system
 - Job board & coding challenge marketplace
 - **Tech Stack:** Java, Spring Boot, MongoDB, React, JavaScript  
-🔗 https://github.com/Nishanthcyber/Job-search
+🔗 https://github.com/Karthi-Keyan-pnk/Job-search
 
 ---
 
