@@ -35,11 +35,11 @@
 
 ##  Featured Projects
 
-###  **Kovai Stories – E-Commerce Platform**
+###  **AAradhana – E-Commerce Platform**
 - Production-level full-stack e-commerce application
 - Secure ordering & admin management
 - **Tech Stack:** Java, Spring Boot, MongoDB Atlas, React  
-🔗 https://kovaistories.com/
+🔗 [https://aaradhana-taupe.vercel.app/]
 
 ---
 
