@@ -59,6 +59,14 @@
 
 ---
 
+###  **Enterprise Multi-Vendor E-Commerce Platform**
+- Team-based enterprise e-commerce and marketplace management project.
+- Backend development involving authentication, role-based access control, product management, orders, and payments.
+- Tech Stack: Java, Spring Boot, Spring Security, PostgreSQL, REST APIs. 
+🔗 https://github.com/springboardmentor1085p-blip/team-1-Enterprise-Multi-Vendor-E-Commerce-and-Marketplace-Operations-Management-Platform
+
+---
+
 ##  LeetCode Profile (DSA Practice)
 
 ---<img width="1256" height="617" alt="38b50a70-c424-46cf-9edd-55c1de05a05e" src="https://github.com/user-attachments/assets/436e0fdd-1293-4456-b68a-8f294ebb7854" />
