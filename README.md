@@ -35,6 +35,14 @@
 
 ##  Featured Projects
 
+###  **Enterprise Multi-Vendor E-Commerce Platform**
+- Team-based enterprise e-commerce and marketplace management project.
+- Backend development involving authentication, role-based access control, product management, orders, and payments.
+- **Tech Stack:** Java, Spring Boot, Spring Security, PostgreSQL, REST APIs.
+  🔗 https://github.com/springboardmentor1085p-blip/team-1-Enterprise-Multi-Vendor-E-Commerce-and-Marketplace-Operations-Management-Platform
+
+---
+
 ###  **AAradhana – E-Commerce Platform**
 - Production-level full-stack e-commerce application
 - Secure ordering & admin management
@@ -56,14 +64,6 @@
 - Accurate gesture recognition with computer vision
 - **Tech Stack:** Python, Mediapipe, Scikit-learn, OpenCV  
 🔗 https://github.com/Karthi-Keyan-pnk/SLR
-
----
-
-###  **Enterprise Multi-Vendor E-Commerce Platform**
-- Team-based enterprise e-commerce and marketplace management project.
-- Backend development involving authentication, role-based access control, product management, orders, and payments.
-- **Tech Stack:** Java, Spring Boot, Spring Security, PostgreSQL, REST APIs.
-🔗 https://github.com/springboardmentor1085p-blip/team-1-Enterprise-Multi-Vendor-E-Commerce-and-Marketplace-Operations-Management-Platform
 
 ---
 
