@@ -63,7 +63,7 @@
 - Convert written housing requirements into a floor plan with room layouts across one or more floors.
 - Check the plan against design and geometry constraints, then refine it if needed.
 - Display the plan and provide design alternatives, explanations, and exportable files.
-- **Tech Stack:** Python, FastAPI, React, JavaScript,    
+- **Tech Stack:** Python, FastAPI, React, JavaScript, AI models
 🔗 [https://github.com/Nishanth-cyber/PlanForge_AI/tree/karthi]
 
 ---
