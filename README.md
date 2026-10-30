@@ -59,11 +59,12 @@
 
 ---
 
-###  **Sign Language Recognition System**
-- Real-time sign language detection using ML
-- Accurate gesture recognition with computer vision
-- **Tech Stack:** Python, Mediapipe, Scikit-learn, OpenCV  
-🔗 https://github.com/Karthi-Keyan-pnk/SLR
+###  **AI-Powered Floor Plan Generator**
+- Convert written housing requirements into a floor plan with room layouts across one or more floors.
+- Check the plan against design and geometry constraints, then refine it if needed.
+- Display the plan and provide design alternatives, explanations, and exportable files.
+- **Tech Stack:** Python, FastAPI, React, JavaScript,    
+🔗 [https://github.com/Nishanth-cyber/PlanForge_AI/tree/karthi]
 
 ---
 
