@@ -38,8 +38,8 @@
 ###  **Enterprise Multi-Vendor E-Commerce Platform**
 - Team-based enterprise e-commerce and marketplace management project.
 - Backend development involving authentication, role-based access control, product management, orders, and payments.
-- **Tech Stack:** Java, Spring Boot, Spring Security, PostgreSQL, REST APIs.
-  🔗 https://github.com/springboardmentor1085p-blip/team-1-Enterprise-Multi-Vendor-E-Commerce-and-Marketplace-Operations-Management-Platform
+- **Tech Stack:** Java, Spring Boot, Spring Security, PostgreSQL, REST APIs.  
+🔗 https://github.com/springboardmentor1085p-blip/team-1-Enterprise-Multi-Vendor-E-Commerce-and-Marketplace-Operations-Management-Platform
 
 ---
 
@@ -63,7 +63,7 @@
 - Convert written housing requirements into a floor plan with room layouts across one or more floors.
 - Check the plan against design and geometry constraints, then refine it if needed.
 - Display the plan and provide design alternatives, explanations, and exportable files.
-- **Tech Stack:** Python, FastAPI, React, JavaScript, AI models
+- **Tech Stack:** Python, FastAPI, React, JavaScript, AI models   
 🔗 [https://github.com/Nishanth-cyber/PlanForge_AI/tree/karthi]
 
 ---
